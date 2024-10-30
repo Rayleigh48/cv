@@ -1,1 +1,1 @@
-# cv
+# curriculum vitae
